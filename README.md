@@ -4,14 +4,12 @@ This repository contains the reproducibility materials for a secondary public-da
 
 ## Contents
 
-- `manuscript/cervical_cancer_congo_reproducible_manuscript.Rmd`: clean R Markdown manuscript and analysis workflow.
 - `analysis/01_run_all.R`: R code extracted from the R Markdown file.
 - `analysis/render_manuscript.R`: script to render the manuscript and regenerate outputs.
 - `analysis/packages.txt`: R packages used by the workflow.
 - `data/README.md`: data provenance and reuse notes.
-- `metadata/.zenodo.json`: Zenodo metadata template.
 - `CITATION.cff`: citation metadata template.
-- `docs/DATA_AVAILABILITY_STATEMENT.txt`: text to paste into the journal manuscript after the Zenodo DOI is created.
+- `docs/DATA_AVAILABILITY_STATEMENT.txt`
 
 ## How to reproduce
 
