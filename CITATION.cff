@@ -3,10 +3,9 @@ message: "If you use this repository, please cite the archived Zenodo release."
 title: "Cervical cancer prevention and education gaps in the Republic of the Congo"
 type: software
 authors:
-  - family-names: "Author"
-    given-names: "Name removed for repository template"
+  - family-names: "Batchi-Bouyou"
+    given-names: "Armel Landry"
 version: "1.0.0"
 date-released: "2026-06-17"
 license: "MIT"
-repository-code: "ADD_GITHUB_REPOSITORY_URL_AFTER_CREATION"
-doi: "ADD_ZENODO_DOI_AFTER_RELEASE"
+repository-code: "https://github.com/armelbatchi/cervical-cancer-congo-reproducibility"
