@@ -2,6 +2,8 @@
 
 This repository contains the reproducibility materials for a secondary public-data analysis of cervical cancer burden, prevention gaps, and readiness for WHO cervical cancer elimination targets in the Republic of the Congo.
 
+Archived release: https://doi.org/10.5281/zenodo.20736334
+
 ## Contents
 
 - `analysis/01_run_all.R`: R code extracted from the R Markdown file.
