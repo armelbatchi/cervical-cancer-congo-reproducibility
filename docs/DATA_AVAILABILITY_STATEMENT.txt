@@ -1,0 +1,4 @@
+Data availability statement
+
+The study used secondary public data only. The R Markdown code, analysis scripts, metadata files, and generated-data workflow needed to reproduce the tables and figures are publicly archived on Zenodo at: ADD_ZENODO_DOI_HERE. The live development repository is available on GitHub at: armelbatchi
+cervical-cancer-congo-reproducibility. No individual-level, patient-level, or private data were used.
