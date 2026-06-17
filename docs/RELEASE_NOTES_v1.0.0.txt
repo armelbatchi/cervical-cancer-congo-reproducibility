@@ -1,0 +1,16 @@
+Release v1.0.0
+
+Initial public reproducibility release for the cervical cancer prevention and education gaps analysis.
+
+Included:
+- Clean R Markdown workflow.
+- Extracted R script.
+- Package list.
+- Data provenance notes.
+- Citation and Zenodo metadata templates.
+- Journal data availability statement template.
+
+Not included:
+- Patient-level data.
+- Private author information.
+- Emails, ORCID identifiers, signatures, grant documents, or reviewer files.

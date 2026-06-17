@@ -1,0 +1,6 @@
+Sanitization report
+
+Direct author names, degrees, emails, and named personal affiliations were removed from the code files where detected.
+
+Remaining flagged terms:
+None
