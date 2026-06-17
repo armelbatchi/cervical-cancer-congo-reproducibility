@@ -1,0 +1,13 @@
+tidyverse
+knitr
+kableExtra
+scales
+sf
+rnaturalearth
+rnaturalearthdata
+patchwork
+ggrepel
+officer
+flextable
+gridExtra
+rmarkdown
