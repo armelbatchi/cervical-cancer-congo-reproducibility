@@ -1,5 +1,7 @@
 # Cervical cancer prevention and education gaps in the Republic of the Congo
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20736334.svg)](https://doi.org/10.5281/zenodo.20736334)
+
 This repository contains the reproducibility materials for a secondary public-data analysis of cervical cancer burden, prevention gaps, and readiness for WHO cervical cancer elimination targets in the Republic of the Congo.
 
 Archived release: https://doi.org/10.5281/zenodo.20736334
